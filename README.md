@@ -9,8 +9,4 @@ I made with [React.js](https://reactjs.org/) and de [Marked](https://cdnjs.com/l
 * Finally just `npm start` and that's it!
 
 ## Preview
-![Preview](https://i.imgur.com/lYgRTZY.mp4)
-
-<video width="320" height="240" controls>
-  <source src="[video.mov](https://i.imgur.com/lYgRTZY.mp4)" type="video/mp4">
-</video>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/7GMCKBD" data-context="false" ><a href="//imgur.com/a/7GMCKBD"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
