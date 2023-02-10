@@ -1,17 +1,22 @@
 # React Drum Machine 🥁
-
 This is a proyect made for the *FreeCodeCamp* Frontend libraries course
 
-I made it with [React.js](https://reactjs.org/) Html, and Css
-
-## Setup 🤖
-* Install [node.js](https://nodejs.org/es/)
-* Finally just `npm start` and that's it!
-
 ## Preview 👀
+In [This link](https://miguelco23.github.io/drum-machine/) Is deployed my application
 
-In [This video](https://imgur.com/a/7GMCKBD) You can hear the drums machine
-
+Also here you can see some preview
 ![Preview](https://i.imgur.com/6IZa12X.png)
 
+## User stories 📄
+You can check [Here](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-drum-machine) the requirements for the project
 
+## Tech resources 👨‍💻
+- [React.js](https://reactjs.org/)
+- Html 
+- Css
+- [GitHub pages](https://pages.github.com/)
+
+## Setup ⚙
+* In your console `git clone https://github.com/Miguelco23/markdown-prewiewer.git`
+* Install [node.js](https://nodejs.org/es/)
+* Finally just `npm start` and that's it!. You will bi able to check how it works
